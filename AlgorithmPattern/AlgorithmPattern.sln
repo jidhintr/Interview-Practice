@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.0_MaxSubArray", "SlidingD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.0_MinSubArray", "SlidingDoor\2.0_MinSubArray\2.0_MinSubArray.csproj", "{0E136764-62DD-4473-9A81-CA1D64D1FC51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.0_LongetsSubString", "SlidingDoor\3.0_LongetsSubString\3.0_LongetsSubString.csproj", "{F81840AE-E04A-4855-B3FB-979F44838A0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0E136764-62DD-4473-9A81-CA1D64D1FC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E136764-62DD-4473-9A81-CA1D64D1FC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E136764-62DD-4473-9A81-CA1D64D1FC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81840AE-E04A-4855-B3FB-979F44838A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81840AE-E04A-4855-B3FB-979F44838A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81840AE-E04A-4855-B3FB-979F44838A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81840AE-E04A-4855-B3FB-979F44838A0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
