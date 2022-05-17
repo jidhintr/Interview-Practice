@@ -7,3 +7,5 @@
 *.suo
 /AlgorithmPattern/SlidingDoor/2.0_MinSubArray/bin/Debug/net6.0
 /AlgorithmPattern/SlidingDoor/2.0_MinSubArray/obj
+/AlgorithmPattern/SlidingDoor/3.0_LongetsSubString/obj
+/AlgorithmPattern/SlidingDoor/3.0_LongetsSubString/bin/Debug/net6.0
