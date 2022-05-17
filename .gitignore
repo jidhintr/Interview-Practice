@@ -3,3 +3,5 @@
 ################################################################################
 
 /AlgorithmPattern/SlidingDoor/1.0_MaxSubArray/bin/Debug/net6.0
+/AlgorithmPattern/SlidingDoor/1.0_MaxSubArray/obj
+*.suo
